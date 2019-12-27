@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ej7.dir/tests/algo_tests.cpp.o  -o ej7 tests/google-test/libgtest.a tests/google-test/libgtest_main.a tests/google-test/libgtest.a -lpthread 

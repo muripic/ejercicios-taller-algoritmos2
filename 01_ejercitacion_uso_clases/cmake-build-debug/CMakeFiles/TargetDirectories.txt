@@ -1,0 +1,4 @@
+/home/muripic/Documents/AED_II/01_ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/muripic/Documents/AED_II/01_ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_algobot.dir
+/home/muripic/Documents/AED_II/01_ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/muripic/Documents/AED_II/01_ejercitacion_uso_clases/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir

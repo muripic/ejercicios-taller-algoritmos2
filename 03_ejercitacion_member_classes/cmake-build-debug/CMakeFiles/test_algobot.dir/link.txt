@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=gnu++11 -ggdb3 -g -g   CMakeFiles/test_algobot.dir/tests/test_algobot.cpp.o  -o test_algobot libgtest.a libgtest_main.a 

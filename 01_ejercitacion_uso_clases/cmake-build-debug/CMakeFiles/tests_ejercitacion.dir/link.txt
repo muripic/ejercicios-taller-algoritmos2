@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o CMakeFiles/tests_ejercitacion.dir/src/algobot.cpp.o  -o tests_ejercitacion 

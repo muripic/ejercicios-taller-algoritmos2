@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -std=gnu++11 -ggdb3 -g -g   CMakeFiles/horario_gtest.dir/tests/test_horario.cpp.o  -o horario_gtest libgtest.a libgtest_main.a 

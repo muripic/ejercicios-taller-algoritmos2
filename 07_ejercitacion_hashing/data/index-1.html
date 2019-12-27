@@ -1,0 +1,23 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Unknown </title></head><body>
+<p>Datos utilizados para el taller de hashing</p>
+<h3 id="datasets">Datasets:</h3>
+<ul>
+<li>gauss(<em>.txt</em>): distribución gaussiana de claves N(100000, 5000)</li>
+<li>uniforme(<em>.txt</em>): distribución uniforme de claves U(1, 6378277)</li>
+<li>libretas(<em>.txt</em>): listado de libretas con el número unido al año y con
+    padding de 3 y 2 dígitos, respectivamente. Los números estan distribuidos
+    uniformemente U(1, 7000), los años siguen una distribución de pareto 
+    (15 - P(6)). </li>
+</ul>
+<h3 id="graficos">Graficos:</h3>
+<p><code>uniforme.pdf</code>, <code>gauss.pdf</code> y <code>libretas.pdf</code> muestra la distribución como está.
+libretas_años.pdf muestra la distribución de los años en las libretas y 
+librertas_nums.pdf muestra la distribución de los números.</p>
+<h3 id="scripts">Scripts:</h3>
+<ul>
+<li><code>generar_datos.py</code>: genera los datos para los tres tipos de distribuciones</li>
+<li><code>graficar_datos.py</code>: genera los gráficos nombrados anteriormente a partir de
+    los txt esperados</li>
+<li><code>Makefile</code>: magia</li>
+</ul>
+</body></html>

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Diccionario.cpp
+Diccionario.h
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Diccionario.h
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Diccionario.h
+vector
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Fecha.cpp
+Periodo.h
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Periodo.h
+Meses.h
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Meses.h
+Funciones.h
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Funciones.h
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Funciones.h
+Meses.h
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Meses.h
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Meses.h
+
+/home/muripic/Documents/AED_II/03_ejercitacion_member_classes/src/Periodo.h
+

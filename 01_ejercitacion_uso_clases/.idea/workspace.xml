@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="uso_clases" targetName="tests_algobot" />
+      <config projectName="uso_clases" targetName="tests_ejercitacion" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="780548e8-177e-45b7-9581-43c80c372219" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1PPeFpN1odA8Le71ryG3hYikoRA" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02_ejercitacion_definicion_clases" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.tests_ejercitacion">
+    <configuration name="tests_algobot" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uso_clases" TARGET_NAME="tests_algobot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="uso_clases" RUN_TARGET_NAME="tests_algobot">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests_ejercitacion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="uso_clases" TARGET_NAME="tests_ejercitacion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="uso_clases" RUN_TARGET_NAME="tests_ejercitacion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.tests_algobot" />
+      <item itemvalue="CMake Application.tests_ejercitacion" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="780548e8-177e-45b7-9581-43c80c372219" name="Default Changelist" comment="" />
+      <created>1565780058182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565780058182</updated>
+      <workItem from="1565780063393" duration="209000" />
+      <workItem from="1565790435328" duration="35000" />
+      <workItem from="1565790496117" duration="622000" />
+      <workItem from="1565791143331" duration="28000" />
+      <workItem from="1565791184370" duration="95000" />
+      <workItem from="1565791317683" duration="143000" />
+      <workItem from="1565791686891" duration="29000" />
+      <workItem from="1565791852821" duration="6000" />
+      <workItem from="1565792307930" duration="8000" />
+      <workItem from="1565792367367" duration="76000" />
+      <workItem from="1565800524482" duration="912000" />
+      <workItem from="1565801903982" duration="3322000" />
+      <workItem from="1565812137508" duration="12654000" />
+      <workItem from="1565898025400" duration="132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
